@@ -37,7 +37,7 @@ The following files are available for the train and test data. Their description
       write the data to upload
 
 
-##Resulting Variables/Data
+#Resulting Variables/Data
 - 'data': combined test and training data
 - 'data.mean.std': means and sd from data
 - 'labels': activity_labels.txt
