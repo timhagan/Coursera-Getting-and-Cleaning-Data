@@ -7,8 +7,8 @@ This is for the Coursera course called "Getting and Cleaning Data." In this READ
 
 The script is saved in this repository as run_analysis.R, which will merge the test and training sets together. Be aware that:
 
-1. the UCI HAR Dataset must be extracted
-2. the UCI HAR Dataset must be availble in a directory called "UCI HAR Dataset" (set your working directory to this)
+1. The UCI HAR Dataset must be extracted
+2. Working directory must be set to the extracted "UCI HAR Dataset" folder
 
 The script will create a tidy data set containing the means of all the columns per test subject and per activity. This tidy dataset will be written to a tab-delimited file called tidy.txt, which can also be found in this repository.
 
